@@ -8,7 +8,7 @@ A simple cross-tab generator with charts creation function.
 * Additionally, __Tablo__ is able to create simple bar charts for you too.
 * After you have gotten the output csv file from the creation of crosstabs, re-upload this output file in the visualisation step and __Tablo__ will clear your burden of this tedious task.
 
-## Disclaimer
+## Disclaimers
 * The author does not assume any responsibility that __Tablo__ will always work the way you intended it to work.
 * __Tablo__ has not gone through a thorough process in order to be commercialised so use it at your own risk.
 
